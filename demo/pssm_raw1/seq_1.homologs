@@ -1,0 +1,47 @@
+# PSIBLAST 2.16.0+
+# Iteration: 1
+# Query: seq_1
+# Database: ./swissprot/swissdb
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+seq_1	sp|Q76CE6|IBPKB_TYPIS	100.000	65	0	0	1	65	179	243	5.71e-37	126
+seq_1	sp|Q76CE8|IBPKA_TYPIS	82.812	64	11	0	2	65	180	243	2.45e-29	106
+seq_1	sp|B8XC04|IBP_LENED	58.730	63	26	0	1	63	225	287	1.13e-16	74.3
+seq_1	sp|H7FWB6|IBP_FLAFP	54.839	62	28	0	1	62	211	272	1.22e-15	71.2
+seq_1	sp|C7F6X3|IBP_LEUSY	58.065	62	26	0	1	62	179	240	7.40e-15	68.9
+seq_1	sp|A5XB26|IBP_COLSX	54.839	62	28	0	1	62	180	241	2.36e-14	67.4
+seq_1	sp|B8XC03|IBP_FLAPO	46.774	62	33	0	2	63	179	240	1.92e-11	59.7
+seq_1	sp|Q086E4|IBP1_SHEFN	39.062	64	39	0	2	65	827	890	5.73e-06	44.7
+# PSIBLAST 2.16.0+
+# Iteration: 2
+# Query: seq_1
+# Database: ./swissprot/swissdb
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+seq_1	sp|A5XB26|IBP_COLSX	54.839	62	28	0	1	62	180	241	1.23e-18	79.0
+seq_1	sp|C7F6X3|IBP_LEUSY	58.065	62	26	0	1	62	179	240	9.87e-18	76.7
+seq_1	sp|H7FWB6|IBP_FLAFP	54.839	62	28	0	1	62	211	272	3.73e-17	75.5
+seq_1	sp|Q76CE8|IBPKA_TYPIS	82.812	64	11	0	2	65	180	243	3.64e-16	72.4
+seq_1	sp|B8XC03|IBP_FLAPO	46.774	62	33	0	2	63	179	240	3.62e-15	69.7
+seq_1	sp|Q76CE6|IBPKB_TYPIS	100.000	65	0	0	1	65	179	243	5.19e-15	69.4
+seq_1	sp|B8XC04|IBP_LENED	58.730	63	26	0	1	63	225	287	8.22e-14	66.7
+seq_1	sp|Q086E4|IBP1_SHEFN	39.062	64	39	0	2	65	827	890	2.02e-13	65.9
+seq_1	sp|A0A7D5JNZ7|IBP_NOSSH	31.034	58	39	1	8	64	170	227	7.90e-04	38.5
+# PSIBLAST 2.16.0+
+# Iteration: 3
+# Query: seq_1
+# Database: ./swissprot/swissdb
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+seq_1	sp|A5XB26|IBP_COLSX	54.839	62	28	0	1	62	180	241	4.14e-17	74.7
+seq_1	sp|C7F6X3|IBP_LEUSY	58.065	62	26	0	1	62	179	240	1.54e-16	73.6
+seq_1	sp|H7FWB6|IBP_FLAFP	54.839	62	28	0	1	62	211	272	8.35e-16	71.7
+seq_1	sp|Q76CE8|IBPKA_TYPIS	82.812	64	11	0	2	65	180	243	1.16e-14	68.2
+seq_1	sp|B8XC03|IBP_FLAPO	46.774	62	33	0	2	63	179	240	1.42e-13	65.5
+seq_1	sp|Q76CE6|IBPKB_TYPIS	100.000	65	0	0	1	65	179	243	1.66e-13	65.1
+seq_1	sp|B8XC04|IBP_LENED	58.730	63	26	0	1	63	225	287	2.14e-12	62.8
+seq_1	sp|Q086E4|IBP1_SHEFN	39.062	64	39	0	2	65	827	890	3.75e-12	62.4
+seq_1	sp|A0A7D5JNZ7|IBP_NOSSH	31.034	58	39	1	8	64	170	227	4.32e-09	53.6
+
+Search has CONVERGED!
+# BLAST processed 3 queries
